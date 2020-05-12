@@ -1,5 +1,4 @@
-# okc_nlp_project
-NLP Clustering Project for OkCupid's Dataset
+# NLP Clustering Project for OkCupid's Dataset
 
 OkCupid matches people by asking a lot of questions and assigning weights based on importance. However, I was curious if one could cluster or match people by their essay responses. OkCupid asks users to describe themselves as well and in this dataset, it asked the following questions:
 essay0- My self summary
